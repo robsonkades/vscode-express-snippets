@@ -1,0 +1,31 @@
+{
+    "name": "vscode-express-snippets",
+    "description": "Express Snippets",
+    "version": "1.0.0",
+    "displayName": "Express Snippets",
+    "publisher": "robsonkades",
+    "icon": "images/node.png",
+    "galleryBanner": {
+        "color": "#8bc84b",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/robsonkades/vscode-express-snippets"
+    },
+    "engines": {
+        "vscode": "0.10.x"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
