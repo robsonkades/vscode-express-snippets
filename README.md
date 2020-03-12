@@ -1,7 +1,10 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/robsonkades/vscode-express-snippets/master/images/node.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/robsonkades/vscode-express-snippets/master/images/node.png"
+height="200" width="200"
+    alt="Logo">
+
   </a>
 
   <h3 align="center">Express Snippets</h3>
@@ -9,16 +12,16 @@
 
 ## Tabela de Conteúdo
 
--   [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
--   [Sobre o Projeto](#sobre-o-projeto)
--   [Começando](#come%C3%A7ando)
-    -   [Instalação](#instala%C3%A7%C3%A3o)
-    -   [Linguagens Suportadas](#linguagens-suportadas)
-    -   [Como Usar?](#como-usar)
-    -   [Snippets](#snippets)
--   [Contribuição](#contribui%C3%A7%C3%A3o)
--   [Licença](#licen%C3%A7a)
--   [Contato](#contato)
+- [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Começando](#come%C3%A7ando)
+  - [Instalação](#instala%C3%A7%C3%A3o)
+  - [Linguagens Suportadas](#linguagens-suportadas)
+  - [Como Usar?](#como-usar)
+  - [Snippets](#snippets)
+- [Contribuição](#contribui%C3%A7%C3%A3o)
+- [Licença](#licen%C3%A7a)
+- [Contato](#contato)
 
 ## Sobre o Projeto
 
@@ -32,7 +35,7 @@ Para instalar uma extensão você pode executar o **Command Pallete** através d
 
 ### Linguagens Suportadas
 
--   JavaScript (.js)
+- JavaScript (.js)
 
 ### Como Usar?
 
