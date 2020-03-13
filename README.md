@@ -49,8 +49,8 @@ Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada 
 
 |    Gatilho | Conteúdo                                                  |
 | ---------: | --------------------------------------------------------- |
-|    `app →` | Cria classe app do express                                |
-| `routes →` | Cria a classe de routas do express                        |
+|    `app →` | Cria classe principal do express                          |
+| `routes →` | Cria a classe de rotas do express                         |
 |    `sch →` | Cria um schema do mongoose                                |
 |    `mod →` | Cria um model do sequelize                                |
 |     `db →` | Cria classe de conexão de banco de dados postgres/mongodb |
