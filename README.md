@@ -47,29 +47,34 @@ Quando você instalar a Extensão o desenvolvimento em Node.js será bem mais di
 
 Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada um. O **⇥** significa a tecla `TAB`.
 
-| Gatilho | Conteúdo                                    |
-| ------: | ------------------------------------------- |
-| `cfc →` | Cria um controller com **todos** os métodos |
-| `cst →` | Cria um controller com o método **store**   |
-| `cin →` | Cria um controller com o método **index**   |
-| `ccr →` | Cria um controller com o método **create**  |
-| `csh →` | Cria um controller com o método **show**    |
-| `ced →` | Cria um controller com o método **edit**    |
-| `cup →` | Cria um controller com o método **update**  |
-| `cde →` | Cria um controller com o método **destroy** |
-| `cvi →` | Cria um controller com o método **view**    |
-| `cgr →` | Cria um controller com o método **grid**    |
-| `cfo →` | Cria um controller com o método **form**    |
-|  `st →` | Cria o método **store**                     |
-|  `in →` | Cria o método **index**                     |
-|  `cr →` | Cria o método **create**                    |
-|  `sh →` | Cria o método **show**                      |
-|  `ed →` | Cria o método **edit**                      |
-|  `up →` | Cria o método **update**                    |
-|  `de →` | Cria o método **destroy**                   |
-|  `vi →` | Cria o método **view**                      |
-|  `gr →` | Cria o método **grid**                      |
-|  `fo →` | Cria o método **form**                      |
+|    Gatilho | Conteúdo                                                  |
+| ---------: | --------------------------------------------------------- |
+|    `app →` | Cria classe app do express                                |
+| `routes →` | Cria a classe de routas do express                        |
+|    `sch →` | Cria um schema do mongoose                                |
+|    `mod →` | Cria um model do sequelize                                |
+|     `db →` | Cria classe de conexão de banco de dados postgres/mongodb |
+|    `cfc →` | Cria um controller com **todos** os métodos               |
+|    `cst →` | Cria um controller com o método **store**                 |
+|    `cin →` | Cria um controller com o método **index**                 |
+|    `ccr →` | Cria um controller com o método **create**                |
+|    `csh →` | Cria um controller com o método **show**                  |
+|    `ced →` | Cria um controller com o método **edit**                  |
+|    `cup →` | Cria um controller com o método **update**                |
+|    `cde →` | Cria um controller com o método **destroy**               |
+|    `cvi →` | Cria um controller com o método **view**                  |
+|    `cgr →` | Cria um controller com o método **grid**                  |
+|    `cfo →` | Cria um controller com o método **form**                  |
+|     `st →` | Cria o método **store**                                   |
+|     `in →` | Cria o método **index**                                   |
+|     `cr →` | Cria o método **create**                                  |
+|     `sh →` | Cria o método **show**                                    |
+|     `ed →` | Cria o método **edit**                                    |
+|     `up →` | Cria o método **update**                                  |
+|     `de →` | Cria o método **destroy**                                 |
+|     `vi →` | Cria o método **view**                                    |
+|     `gr →` | Cria o método **grid**                                    |
+|     `fo →` | Cria o método **form**                                    |
 
 ## Contribuição
 
