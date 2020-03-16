@@ -401,6 +401,16 @@
         ],
         "description": "Create destroy method"
     },
+    "methodDelete": {
+        "prefix": "de",
+        "body": [
+            "async delete(req, res) {",
+            "  return res.json();",
+            "}",
+            ""
+        ],
+        "description": "Create delete method"
+    },
     "methodView": {
         "prefix": "vi",
         "body": [

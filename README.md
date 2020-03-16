@@ -71,7 +71,8 @@ Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada 
 |     `sh →` | Cria o método **show**                                    |
 |     `ed →` | Cria o método **edit**                                    |
 |     `up →` | Cria o método **update**                                  |
-|     `de →` | Cria o método **destroy**                                 |
+|     `dr →` | Cria o método **destroy**                                 |
+|     `de →` | Cria o método **delete**                                  |
 |     `vi →` | Cria o método **view**                                    |
 |     `gr →` | Cria o método **grid**                                    |
 |     `fo →` | Cria o método **form**                                    |
